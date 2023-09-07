@@ -1,0 +1,158 @@
+ul{
+    text-align: center;
+}
+.b1{
+    background-color: brown;
+    color: white;
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+    border: none;
+}
+img{
+    width: 1400px;
+    height: 600px;
+    border-radius: 50px;
+    margin-left: 50px;
+}
+.b2{
+    color: brown;
+    border-radius: 20px;
+    width: 140px;
+    height: 30px;
+    border: none;
+    background-color: silver;
+
+}
+h1{
+    text-align: center;
+}
+.img1{
+    width: 400px;
+    height: 400px;
+    margin-right: 1000px;
+}
+.p1{
+    position: absolute;
+    top: 110%;
+    left: 35%;
+    text-align: left;
+}
+.b3{
+   background-color: blue;
+   color: white;
+   border-radius: 20px;
+   width: 140px;
+   height: 30px;
+   border: none;
+   position: absolute;
+    top: 149%;
+    left: 35%;
+
+}
+.img2{
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+}
+.img3{
+    width: 1400px;
+    height: 500px;
+    
+}
+.head3{
+    color: aliceblue;
+    text-align: left;
+    line-height: 0.2;
+    position: absolute;
+    top: 295%;
+    left: 10%;
+    
+}
+.b4{
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    background-color: burlywood;
+    border: none;
+    position: absolute;
+    top: 297%;
+    left: 68%;
+}
+
+.b6{
+    width: 300px;
+    height: 40px;
+    background-color: black;
+    border-radius: 10px;
+    border: none; 
+}
+.head4{
+    text-align: center;
+}
+.img4{
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    margin-left: 10px;
+}
+.dd{
+    color: blue;
+    list-style-type: none;
+    text-align: center;
+
+}
+.ddd{
+    color: blue;
+    list-style-type: none;
+    /* text-align: left; */
+  
+}
+
+.hero{
+    position:relative;
+    text-align: center;
+}
+
+.head{
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    color: white;
+}
+.heros{
+    display: inline-block;
+
+}
+.head2{
+    position: absolute;
+    top: 103%;
+    left: 35%;
+}
+.b4 form input{
+    display: block;
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: 22px;
+    margin-top: 23px;
+  
+}
+.footer{
+    display: inline-block;
+    margin-left: 50%;
+}
+
+.footer ul{
+    display: inline-block;
+    text-align: center;
+}
+
+
+.footer ul li{
+    /* background-color: red; */
+    text-align: center;
+}
